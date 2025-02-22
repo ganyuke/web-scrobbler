@@ -2588,4 +2588,9 @@ export default <ConnectorMeta[]>[
 		js: 'cosine.club.js',
 		id: 'cosine.club',
 	},
+	{
+		label: 'Aonsoku',
+		js: 'aonsoku.js',
+		id: 'aonsoku',
+	},
 ];
